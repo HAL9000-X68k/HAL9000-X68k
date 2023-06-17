@@ -1,7 +1,7 @@
 **目次**
 
 公開中ソフトウェア
-- うんこ PRO-68K（死食版）
+- [うんこ PRO-68K（死食版）](https://github.com/HAL9000-X68k/Games)
 - [1FdCopy.x（1ドライブでのコピーコマンド）](https://github.com/HAL9000-X68k/Tools)
 
 C言語サンプルコード（予定）
