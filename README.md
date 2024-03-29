@@ -1,7 +1,7 @@
 **目次**
 
 公開中ソフトウェア
-- [うんこ PRO-68K Ver1.02（リリース版）](https://github.com/HAL9000-X68k/UnkoPro68K)
+- [うんこ PRO-68K Ver1.03（リリース版）](https://github.com/HAL9000-X68k/UnkoPro68K)
 - [1FdCopy.x（1ドライブでのコピーコマンド）](https://github.com/HAL9000-X68k/Tools)
 
 C言語サンプルコード（予定）
