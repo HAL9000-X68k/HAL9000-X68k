@@ -1,6 +1,7 @@
 **目次**
 
 公開中ソフトウェア
+- [音色野郎 Ver 0.50（試食版）](https://github.com/HAL9000-X68k/SoundEdit)
 - [DUMP.X（ファイル／メモリ内容のダンプ表示コマンド）](https://github.com/HAL9000-X68k/DUMP)
 - [うんこ PRO-68K Ver1.04（リリース版）](https://github.com/HAL9000-X68k/UnkoPro68K)
 - [1FdCopy.x（1ドライブでのコピーコマンド）](https://github.com/HAL9000-X68k/Tools)
